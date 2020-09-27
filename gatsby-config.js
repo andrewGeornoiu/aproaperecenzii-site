@@ -61,6 +61,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
+        enableIdentityWidget: false,
       },
     },
   ],
