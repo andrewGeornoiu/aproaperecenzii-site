@@ -1,6 +1,7 @@
-name: AndreiG
-bio: sef de site si scriere
-featured: true
+- name: AndreiG
+bio:  |
+  sef de site si scriere
 avatar: avatars/46637028_1930031263700888_4349362296594628608_o.jpg
+featured: true
 social:
-  - https://www.facebook.com/GeornoiuAndrei
+  - url: https://www.facebook.com/GeornoiuAndrei
