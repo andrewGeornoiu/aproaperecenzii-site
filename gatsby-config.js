@@ -10,25 +10,22 @@ module.exports = {
       maxWidth: 652,
     },
     social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
+
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/andrewGeornoiu`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://www.instagram.com/andrei_geornoiu/`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/andrei-geornoiu-a35a05108/`,
       },
       {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        name: `facebook`,
+        url: `https://www.facebook.com/GeornoiuAndrei`,
       },
     ],
   },
