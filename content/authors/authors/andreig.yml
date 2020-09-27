@@ -1,9 +1,8 @@
-- name: Andrei GEORNOIU
+- name: AndreiG
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
+    Ala mic
   avatar: ./avatars/46637028_1930031263700888_4349362296594628608_o.jpg
-  featured: false
+  featured: true
   social:
     - url: https://stackoverflow.com
     - url: https://github.com
