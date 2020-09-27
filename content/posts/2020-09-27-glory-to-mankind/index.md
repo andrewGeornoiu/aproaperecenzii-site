@@ -1,6 +1,6 @@
 ---
 title: Glory to Mankind
-author: Thiago Costa
+author: Andrei GEORNOIU
 date: 2020-09-27
 excerpt: Nier Automata
 hero: images/thumb-1920-785576.png
