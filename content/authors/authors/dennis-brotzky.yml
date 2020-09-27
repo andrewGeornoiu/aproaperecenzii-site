@@ -1,12 +1,8 @@
-name: Darksem
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+name: Andrei GEORNOIU
+bio: sef site
 featured: true
-avatar: ./avatars/dennis-brotzky.jpg
+avatar: avatars/46637028_1930031263700888_4349362296594628608_o.jpg
 social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
+  - https://github.com/andrewGeornoiu
+  - https://www.facebook.com/GeornoiuAndrei
+  - https://www.linkedin.com/in/andrei-geornoiu-a35a05108/
