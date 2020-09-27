@@ -1,6 +1,6 @@
 ---
 title: 45 Years (2015) - o iubire fragilă
-author: Andrei GEORNOIU
+author: AndreiG
 date: 2020-09-27
 hero: images/45years_still29.jpg
 ---
