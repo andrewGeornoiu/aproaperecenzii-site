@@ -10,7 +10,6 @@ module.exports = {
       maxWidth: 652,
     },
     social: [
-
       {
         name: `github`,
         url: `https://github.com/andrewGeornoiu`,
@@ -39,7 +38,7 @@ module.exports = {
         authorsPage: true,
         sources: {
           local: true,
-          // contentful: true,
+          contentful: true,
         },
       },
     },
@@ -58,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
-        
+
       },
     },
   ],
