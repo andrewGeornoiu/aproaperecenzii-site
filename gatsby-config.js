@@ -10,22 +10,22 @@ module.exports = {
       maxWidth: 652,
     },
     social: [
-      {
+      
         name: `github`,
         url: `https://github.com/andrewGeornoiu`,
-      },
-      {
+      
+      
         name: `instagram`,
         url: `https://www.instagram.com/andrei_geornoiu/`,
-      },
-      {
+      
+      
         name: `linkedin`,
         url: `https://www.linkedin.com/in/andrei-geornoiu-a35a05108/`,
-      },
-      {
+      
+      
         name: `facebook`,
         url: `https://www.facebook.com/GeornoiuAndrei`,
-      },
+      
     ],
   },
   plugins: [
