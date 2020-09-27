@@ -1,7 +1,8 @@
-name: Dennis Brotzky
+name: Darksem
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
+featured: true
 avatar: ./avatars/dennis-brotzky.jpg
 social:
   - url: https://unsplash.com
@@ -9,4 +10,3 @@ social:
   - url: https://github.com
   - url: https://github.com
   - url: https://github.com
-featured: true
