@@ -1,5 +1,5 @@
 ---
-title: "**Ma nuit chez Maud (1969)**"
+title: Ma nuit chez Maud (1969)
 author: Andrei GEORNOIU
 date: 2020-09-29
 hero: images/maude.jpg
