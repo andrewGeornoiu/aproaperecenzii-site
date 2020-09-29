@@ -3,7 +3,9 @@ module.exports = {
     title: `AproapeRecenzii`,
     name: `aproaperecenzii`,
     siteUrl: `https://aproaperecenzii.com/`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Un site de recenzii pentru filme si seriale, noi sau vechi. Un colt
+    obscur de psudocritica sincera. In viitor probabil voi aborda si alte teme precum:
+    muzica, arta, tehnologie, tutorials etc.`,
     hero: {
       heading: `
       aproaperecenzii // your dirty reviews stash`,
