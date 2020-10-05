@@ -32,6 +32,6 @@ Un film de văzut şi revăzut, El secreto de sus ojos, este unul dintre cele ma
 
 NOTĂ: 10
 
->! P.S. Circulă ştirea că acest film va avea un remake care apare acum în 2015. Recomandarea mea sinceră este să vedeţi originalul şi să staţi cât mai departe de kitschul american. Oricât de buni ar fi actorii şi oricât de mediatizat va fi filmul, nu are nici cea mai mică şansă să se apropie de valoarea originalului.
+P.S. Circulă ştirea că acest film va avea un remake care apare acum în 2015. Recomandarea mea sinceră este să vedeţi originalul şi să staţi cât mai departe de kitschul american. Oricât de buni ar fi actorii şi oricât de mediatizat va fi filmul, nu are nici cea mai mică şansă să se apropie de valoarea originalului.
 
 <!--EndFragment-->
