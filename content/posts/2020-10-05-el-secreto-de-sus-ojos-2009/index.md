@@ -1,0 +1,37 @@
+---
+title: El secreto de sus ojos (2009)
+author: Andrei GEORNOIU
+date: 2020-10-05
+hero: images/el-secreto-de-sus-ojos-wins-oscar-academy-awards-2010.jpg
+---
+<!--StartFragment-->
+
+Cu toţii cred că urmărim cu interes decernarea premiilor Oscar, chiar dacă suntem sau nu convinşi de valoarea lor. Recunosc, îmi place să mai uit pe listele cu filme propuse pentru Oscar. Dar după ce începi să devii mai familiarizat cu lumea cinematografiei, categoria „cel mai bun film” o să ţi se pară tot mai plictisitoare. La fel mi s-a întâmplat şi mie, aşa că am fost nevoit să găsesc ceva nou şi interesant. Şi astfel am ajuns să urmăresc cu o curiozitate şi plăcere tot mai mari Oscarul pentru cel mai bun film străin. Nu foarte original, dar acesta este modul în care am dat peste filmul lui Juan José Campanella.
+
+El secreto de sus ojos este unul dintre cei mai buni câştigători ai acestui premiu din ultimul timp, care se ridică indiscutabil la înălţimea laudelor aduse. Totuşi, alegerea să poate părea una controversată dacă ţinem cont de principalii rivali de atunci: The White Ribbon (2009) şi A Prophet (2009). Nu voi nega calitatea celor două. Pentru mine nu ar fi contat cine era câştigătorul dintre ele, toate fiind adevărate filme de valoare.
+
+Filmul lui Campanella începe cu o poveste poliţistă plină de crime şi suspans tipică. Benjamín Espósito (Ricardo Darín), un investigator criminalist aflat la pensie, începe să scrie un roman în care se inspiră din povestea unui caz închis din trecut. Cazul este cel al Lilianei Coloto (Carla Quevedo), o femeie găsită violată şi ucisă cu brutalitate. Pentru că detaliile să reflecte cât mai bine realitatea, Espósito îi face o vizită lui Irene Menéndez Hastings (Soledad Villamil), fosta lui şefă, femeia pentru care pare să mai aibă nişte sentimente nerezolvate din trecut. De aici filmul se transformă într-o permanentă pendulare între prezent şi trecut. Apar tot mai multe detalii ascunse, totul îndreptându-se către un final memorabil şi neaşteptat.
+
+Prima oară am văzut filmul cu ideea că voi asista la o poveste cu detectivi clasică. Ştiţi voi, avem detectivul super inteligent căruia niciun caz nu îi rămâne nerezolvat până la un moment dat când apare un criminal care îi pune priceperea la încercare. La început crima pare extrem de complicată, dar cu perseverenţă minunatul nostru om al legii reuşeşte (de cele mai multe ori printr-o revelaţie spontană) să dea peste cheia misterului. Previzibil şi plictisitor. Şi totuşi filmul lui Campanella străluceşte deşi are cam toate aceste elemente. Cum?
+
+În primul rând, El secreto de sus ojos, este o poveste detectivă doar dacă îl priveşti la un nivel superficial. Avem tot acel mister, tensiunea pluteşte în aer, iar întorsăturile de situaţie cu siguranţă de vor ţine cu sufletul la gură. Însă asta este doar de faţadă, fiindcă toată această minunată şi oarecum încurcată poveste se stinge uşor. Sau, mai bine formulat, interesul privitorului pentru ea se stinge. Şi atunci probabil vă întrebaţi ce mai rămâne din film? Răspunsul: o capodoperă.
+
+Campanella înainte de toate creează personaje de care îţi pasă, personaje pe care vrei să le cunoşti. Remarcabil în acest sens este scena în care Irene îl îndeamnă pe Espósito să îşi amintească lucrul care îi apare cel mai des în memorie legat de caz. Nu, nu este o femeie plină de sânge şi vânătăi, ci ziua în care judecătorul Juez Fortuna Lacalle (Mario Alarcón) i-o prezintă pe noua lui şefă Irene Menéndez Hastings. Acum cred că este evident către ce se îndreaptă recenzia mea.
+
+Espósito şi Irene sunt inima acestui film, căreia i se va adăuga mai târziu şi o treia piesă prin Ricardo Morales (Pablo Rago), soţul femeii ucise a cărui iubire transcende timpul. Această explorare a sentimentelor prin intermediul puterii memoriei este, de fapt, principalul atu al filmului.
+
+Espósito nu îşi scrie romanul fiindcă nu are altceva mai bun de făcut. Nu alege la întâmplare cazul lui Morales, fiindcă îi se pare lui că ar fi o poveste bună. Ci mai degrabă, prin ceea ce scrie, el caută un fel de încheiere. Un final atât pentru povestea iubirii sale neîmplinite, cât şi pentru sentimentele profunde ale lui Ricardo. Astfel filmul se transformă într-o jonglare magistral realizată între prezent şi trecut care evidenţiază puterea imensă a amintirilor şi felul în care iubirea este singurul sentiment care se află dincolo de timp.
+
+Dacă privim atent tot ceea ce se întâmplă în film are la bază imensă forţă a acestui sentiment. Isidoro Gomez (Javier Godino) ucide mânat de o iubire bolnăvicioasă, obsesivă. Morales îşi iubeşte atât de mult soţia încât nu va renunţa niciodată la răzbunare. De asemenea, tot iubirea lui Morales este cea care îl face pe Espósito să redeschidă cazul demult închis. Şi ca să fie complet, iubirea încă vie pentru Irene este cea care trezeşte în Espósito dorinţa de a scrie romanul.
+
+Pe partea de realizare tot acest thriller dramatic este redat printr-o imagine superbă. De exemplu, magnifica scenă cu stadionul. Acea urmărire lungă şi neîntreruptă care are loc acolo şi sentimentul că orice se poate întâmpla sunt copleşitoare. Dar mai semnificative decât această scenă executată la perfecţie din punct de vedere tehnic, sunt cadrele care conţin ochii personajelor. Urmăriţi doar filmul şi vă veţi da seama că titlul nu este ales tocmai la întâmplare. Ochii vorbesc. De la regretul şi dorinţele care ard în ochii lui Espósito, până la pasiunea criminală a lui Morales, fiecare privire cuprinde o cantitate imensă de cuvinte şi emoţii. Este nevoie doar să vedeţi despărţirea tăcută din gară dintre Irene şi Espósito şi veţi simţi avalanşa de sentimente dintre ei. Acolo cuvintele se împuţinează până dispar aproape de tot pentru a accentua mult mai profund senzualitatea gesturilor. Şi timpul stă şi se naşte o amintire.
+
+Accentul puternic care cade pe memorie mi-a amintit uneori de capodopera cinematografiei franceze Hiroshima Mon Amour (1959), diferenţă majoră fiind aceea că în filmul lui Resnais este vorba în principal de lupta cu uitarea. În schimb acest lucru este menţionat superficial la Campanella. Personajele sale nu par să aibă probleme în a-şi aminti. Din contră, ele îşi amintesc prea mult, nu uită şi asta le face de multe ori să pară blocate în trecut. Finalul filmului oferă oarecum o rezolvare pentru asta, exceptându-l pe Morales, care rămâne până în ultimul moment legat inseparabil de ceea ce a fost. Ceea ce întăreşte una dintre cele puternice idei ale filmului, formulată excepţional de Pablo Sandoval (Guillermo Francella), partenerul lui Espósito, şi anume că omul poate să schimbe absolut orice în afară de pasiunea sa.
+
+Un film de văzut şi revăzut, El secreto de sus ojos, este unul dintre cele mai bune producţii (din categoria sa) ale secolului 21. Campanella ne oferă ceva complet memorabil, o poveste despre iubire, crimă, pasiune şi răzbunare cum rar vezi în cinema, nu degeaba a afirmat marele critic de film Roger Ebert în recenzia sa: „This is a real movie, the kind they literally don't make very much anymore”.
+
+NOTĂ: 10
+
+>! P.S. Circulă ştirea că acest film va avea un remake care apare acum în 2015. Recomandarea mea sinceră este să vedeţi originalul şi să staţi cât mai departe de kitschul american. Oricât de buni ar fi actorii şi oricât de mediatizat va fi filmul, nu are nici cea mai mică şansă să se apropie de valoarea originalului.
+
+<!--EndFragment-->
