@@ -1,6 +1,8 @@
 name: Andrei GEORNOIU
-bio: |
-  Sef de site
+bio: Web design enthusiast si pasionat de cinema și tehnologie. Îmi place să
+  scriu despre ce mai văd și apoi să împart cu lumea. Timpul e scurt, deci cel
+  mai probabil articolele noi vor apărea mai greu.
+featured: true
 avatar: ./avatars/46637028_1930031263700888_4349362296594628608_o.jpg
 social:
   - url: https://www.facebook.com/GeornoiuAndrei
@@ -8,4 +10,3 @@ social:
   - url: https://www.linkedin.com/in/andrei-geornoiu-a35a05108/
   - url: https://github.com/andrewGeornoiu
   - url: https://open.spotify.com/user/217fb7j3ibvhxjl766xcl6bqi?si=l7sNHlFvSM-e6occRutQRQ
-featured: true
